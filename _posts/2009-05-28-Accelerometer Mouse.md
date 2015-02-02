@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Pocket LED Matrix
+title: Accelerometer Mouse
 ---
 Placeholder

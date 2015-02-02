@@ -7,8 +7,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            macaba
-tagline:          'What has he been upto?'
+title:            Macaba
+tagline:          'Engineer. Electronics, Software & Systems Design'
 description:      'A collection of projects, hacks and ideas.'
 url:              http://macaba.github.io
 baseurl:          /
